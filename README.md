@@ -1,5 +1,5 @@
 # DicimalComparator
-# Tim Buchalka's Java Programming Masterclass for Software Developers course
+# Challenge from Tim Buchalka's Java Programming Masterclass for Software Developers course
 
 Write a method areEqualByThreeDecimalPlaces with two parameters of type double.
 
